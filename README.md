@@ -24,7 +24,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Supervised Machine Learning Regression and Classification
+  cd Supervised Machine Learning: Regression and Classification
 ```
 
 Install all the required libraries ie pandas,numpy,matplotlib,scikit-learn and few others.
