@@ -44,5 +44,5 @@ Each block of code or run it manually by clicking run button
 ## Suggestion:
 Don't just blindy clone and scroll through the code try to understand and practice.
 I have added juypter notebook prefer that as well to understand the concepts summary.
-## If you really want to learn and want lecture vidoes then contact me in my social account.
+## If you really want to learn and want lecture videos then contact me in my social account.
 
