@@ -72,12 +72,10 @@ Open the Jupyter Notebook and execute each code block step by step:
 ```
 This will allow you to run and understand the implemented concepts interactively.
 
-<<<<<<< HEAD
 ## Suggestion:
 Don't just blindy clone and scroll through the code try to understand and practice.
 I have added juypter notebook prefer that as well to understand the concepts summary.
 ## If you really want to learn and want lecture videos then contact me in my social account.
-=======
 ---
 
 ## Detailed Notes
@@ -94,5 +92,4 @@ I have provided comprehensive notes in Jupyter Notebook format, which summarize 
 
 ## Need Help?
 If you have any questions or need guidance, feel free to reach out to me through my social accounts. I’m happy to help!
->>>>>>> dbe343f (Addednotes)
 
