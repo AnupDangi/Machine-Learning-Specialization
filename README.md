@@ -5,7 +5,7 @@ This repository showcases my journey through the Machine Learning Specialization
 
 ---
 <img width="2836" height="1212" alt="image" src="https://github.com/user-attachments/assets/e5c67606-2c46-4e59-accb-7899a76fea6c" />
-- Link: https://www.coursera.org/specializations/machine-learning-introduction
+Link: https://www.coursera.org/specializations/machine-learning-introduction
 
 ## What I Learned
 
