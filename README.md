@@ -4,6 +4,8 @@
 This repository showcases my journey through the Machine Learning Specialization series. It includes the topics I have learned and practical projects I worked on to solidify my understanding. The repository also contains detailed notes in Jupyter Notebook format, which you can use to follow along and learn.
 
 ---
+<img width="2836" height="1212" alt="image" src="https://github.com/user-attachments/assets/e5c67606-2c46-4e59-accb-7899a76fea6c" />
+- Link: https://www.coursera.org/specializations/machine-learning-introduction
 
 ## What I Learned
 
